@@ -1,0 +1,3 @@
+[submodule "subprojects/libXNVCtrl"]
+	path = subprojects/libXNVCtrl
+	url = https://github.com/msmaldi/libXNVCtrl
