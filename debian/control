@@ -1,7 +1,7 @@
 Source: com.github.msmaldi.nvidia-fan-service
 Section: x11
 Priority: optional
-Maintainer: Cody Garver <cody@elementary.io>
+Maintainer: Matheus Maldi <msmaldi@hotmail.com>
 Build-Depends: debhelper (>= 9),
                valac (>= 0.40.0)
 Standards-Version: 0.1.0
@@ -9,4 +9,5 @@ Standards-Version: 0.1.0
 Package: com.github.msmaldi.nvidia-fan-service
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Description: NVidia Fan Service
+Description: Nvidia Fan Service
+ Is a Nvidia Service
